@@ -1,10 +1,10 @@
-package com.dicoding.myfirebasechat
+package com.roynaldi19.dc4_09firebasechat
 
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
-import com.dicoding.myfirebasechat.databinding.ActivityMainBinding
+import com.roynaldi19.dc4_09firebasechat.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.dicoding.myfirebasechat
+package com.roynaldi19.dc4_09firebasechat
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
