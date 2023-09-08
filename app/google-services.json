@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "620698599525",
+    "firebase_url": "https://dc409firebasechat-default-rtdb.firebaseio.com",
     "project_id": "dc409firebasechat",
     "storage_bucket": "dc409firebasechat.appspot.com"
   },
