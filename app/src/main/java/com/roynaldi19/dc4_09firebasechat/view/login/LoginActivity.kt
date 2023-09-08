@@ -1,4 +1,4 @@
-package com.roynaldi19.dc4_09firebasechat
+package com.roynaldi19.dc4_09firebasechat.view.login
 
 import android.app.Activity
 import android.content.Intent
@@ -15,6 +15,8 @@ import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.GoogleAuthProvider
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
+import com.roynaldi19.dc4_09firebasechat.view.main.MainActivity
+import com.roynaldi19.dc4_09firebasechat.R
 import com.roynaldi19.dc4_09firebasechat.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {

@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyFirebaseChat">
         <activity
-            android:name="com.roynaldi19.dc4_09firebasechat.LoginActivity"
+            android:name="com.roynaldi19.dc4_09firebasechat.view.login.LoginActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.roynaldi19.dc4_09firebasechat.MainActivity"
+            android:name="com.roynaldi19.dc4_09firebasechat.view.main.MainActivity"
             android:exported="true">
 
         </activity>
