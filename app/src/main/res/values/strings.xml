@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DC4_08FirebaseChat</string>
+    <string name="app_name">Chat Aja</string>
     <string name="sign_out">Sign Out</string>
     <string name="send_success">Berhasil terkirim</string>
     <string name="send_error">Gagal terkirim</string>
